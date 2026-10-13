@@ -1,5 +1,4 @@
-# This is the README for the paper "Is It the Revision or the Word? 
-# Separating Revision Signals from Marker Words in Reasoning Traces"
+# This is the README for the paper "Is It the Revision or the Word? Separating Revision Signals from Marker Words in Reasoning Traces"
 
 The order in whcih to run the code is relatively self-explanatory. The maximum requirements for
 running this code are an A100 GPU and a google colab pro subscription. 
